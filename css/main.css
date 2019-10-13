@@ -1,0 +1,73 @@
+body {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.navbar-brand {
+    font-size: 60px;
+}
+
+.nav-item {
+    font-size: 20px;
+}
+
+#header {
+
+}
+
+.height {
+    min-height: 60vh;
+}
+
+.title-underline {
+    width: 200px;
+    height: 10px;
+    margin: 0 auto;
+}
+
+.projects {
+    width: 280px;
+}
+
+.bold {
+    font-size: 30px;
+    color: 	#5bc0de;
+}
+
+.height-80 {
+    min-height: 80vh;
+}
+
+.about-picture {
+    background: url(../img/code.jpeg)center/cover no-repeat fixed;
+}
+
+a.projects {
+    text-decoration: none;
+    color: #fff;
+}
+
+a.projects:hover {
+    color: #6cd1ff;
+}
+
+.skills {
+    width: 210px;
+}
+
+.contact {
+    width: 250px;
+}
+/* you tube */
+.contact-form{
+    background: rgba(0, 0, 0, .3);
+    color: white;
+}
+
+.form-container {
+    background: rgba(0, 0, 0, .3);
+    padding: 1rem;
+}
+
+.footer {
+    width: 75px;
+}
